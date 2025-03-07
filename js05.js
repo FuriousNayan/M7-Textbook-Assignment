@@ -4,7 +4,7 @@
       Chapter Case
 
       Application to generate a slide show
-      Author: Karan Modi
+      Author:  Nayan Patel
       Date: 3/7/2025
 
       Filename: js05.js
